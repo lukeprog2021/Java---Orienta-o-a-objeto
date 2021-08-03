@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab5bf9f6-f5ce-4f29-a2d0-fafc4422797c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BlocodeInicialização/classes/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlocodeInicialização/test/ClienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores/classes/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores/test/CarroTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlocodeInicialização/classes/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlocodeInicialização/classes/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,33 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CarroTest">
+    <configuration name="CarroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modificadores.test.CarroTest" />
+      <module name="Java---Orienta-o-a-objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modificadores.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlocodeInicialização.test.ClienteTest" />
+      <module name="Java---Orienta-o-a-objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BlocodeInicialização.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -46,6 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarroTest" />
+        <item itemvalue="Application.ClienteTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,12 +91,24 @@
       <option name="presentableId" value="Default" />
       <updated>1627426392350</updated>
       <workItem from="1627426422494" duration="2004000" />
-      <workItem from="1628010229048" duration="335000" />
+      <workItem from="1628010229048" duration="5400000" />
     </task>
+    <task id="LOCAL-00001" summary="Aula41_blocosInicialização">
+      <created>1628010634521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628010634521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula41_blocosInicialização" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula41_blocosInicialização" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
