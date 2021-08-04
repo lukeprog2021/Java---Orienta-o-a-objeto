@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab5bf9f6-f5ce-4f29-a2d0-fafc4422797c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BlocodeInicialização/test/ClienteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modificadores/classes/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modificadores/test/CarroTest.java" afterDir="false" />
+    <list default="true" id="ab5bf9f6-f5ce-4f29-a2d0-fafc4422797c" name="Default Changelist" comment="Aula42_modificadores">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlocodeInicialização/classes/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlocodeInicialização/classes/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modificadores/classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modificadores/classes/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modificadores/test/CarroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modificadores/test/CarroTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627426392350</updated>
       <workItem from="1627426422494" duration="2004000" />
-      <workItem from="1628010229048" duration="5400000" />
+      <workItem from="1628010229048" duration="7062000" />
     </task>
     <task id="LOCAL-00001" summary="Aula41_blocosInicialização">
       <created>1628010634521</created>
@@ -108,7 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula41_blocosInicialização" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula41_blocosInicialização" />
+    <MESSAGE value="Aula42_modificadores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula42_modificadores" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

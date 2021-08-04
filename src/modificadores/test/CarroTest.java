@@ -14,7 +14,7 @@ public class CarroTest {
 
         System.out.println(" ");
         System.out.println("####### Alterado a seguir #######");
-        Carro.velocidadeLimite = 220;
+        Carro.setVelocidadeLimite(200);
 
         c1.imprime();
         c2.imprime();
