@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab5bf9f6-f5ce-4f29-a2d0-fafc4422797c" name="Default Changelist" comment="Aula42_modificadores">
+    <list default="true" id="ab5bf9f6-f5ce-4f29-a2d0-fafc4422797c" name="Default Changelist" comment="Aula44_associação">
+      <change afterPath="$PROJECT_DIR$/out/production/Java---Orienta-o-a-objeto/modificadores/classes/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java---Orienta-o-a-objeto/modificadores/test/ClienteTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/associação/classes/Departamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/associação/classes/Endereço.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/associação/classes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores/classes/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores/test/ClienteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modificadores/classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modificadores/classes/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modificadores/test/CarroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modificadores/test/CarroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java---Orienta-o-a-objeto/modificadores/classes/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java---Orienta-o-a-objeto/modificadores/classes/Carro.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +39,28 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.CarroTest">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="modificadores.test" />
+      <recent name="modificadores.classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClienteTest (1)">
     <configuration name="CarroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modificadores.test.CarroTest" />
+      <module name="Java---Orienta-o-a-objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modificadores.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modificadores.test.ClienteTest" />
       <module name="Java---Orienta-o-a-objeto" />
       <extension name="coverage">
         <pattern>
@@ -60,21 +85,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClienteTest (1)" />
         <item itemvalue="Application.CarroTest" />
         <item itemvalue="Application.ClienteTest" />
       </list>
@@ -90,6 +114,7 @@
       <updated>1627426392350</updated>
       <workItem from="1627426422494" duration="2004000" />
       <workItem from="1628010229048" duration="7062000" />
+      <workItem from="1628723345430" duration="3461000" />
     </task>
     <task id="LOCAL-00001" summary="Aula41_blocosInicialização">
       <created>1628010634521</created>
@@ -107,7 +132,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula41_blocosInicialização" />
     <MESSAGE value="Aula42_modificadores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula42_modificadores" />
+    <MESSAGE value="Aula44_associação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula44_associação" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
