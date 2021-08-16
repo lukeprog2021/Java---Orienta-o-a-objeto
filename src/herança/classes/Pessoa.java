@@ -4,7 +4,12 @@ public class Pessoa {
     protected String nome;
     protected String cpf;
     protected Endereço endereço;
-
+    static {
+        System.out.println("Bloco de inicialização 1");
+    }
+    {
+        System.out.println("bloco de inicialização 2");
+    }
     public Pessoa(String nome){
         System.out.println("construtor pessoa");
         this.nome = nome;

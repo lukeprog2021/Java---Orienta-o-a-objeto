@@ -2,9 +2,15 @@ package herança.classes;
 
 public class Funcionario extends Pessoa {
     private double salario;
-
+    static {
+        System.out.println("Bloco de inicializaçaõ 1 funcionario");
+    }
+    {
+        System.out.println("Bloco de inicialização 2 funcionario");
+    }
     public Funcionario(String nome){
         super(nome);
+        System.out.println("construtor Funcionario");
     }
 
     public void imprime(){
