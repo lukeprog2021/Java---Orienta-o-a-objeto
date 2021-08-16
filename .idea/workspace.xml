@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab5bf9f6-f5ce-4f29-a2d0-fafc4422797c" name="Default Changelist" comment="Aula44_associação">
-      <change afterPath="$PROJECT_DIR$/out/production/Java---Orienta-o-a-objeto/modificadores/classes/Cliente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java---Orienta-o-a-objeto/modificadores/test/ClienteTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/associação/classes/Departamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/associação/classes/Endereço.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/associação/classes/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modificadores/classes/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modificadores/test/ClienteTest.java" afterDir="false" />
+    <list default="true" id="ab5bf9f6-f5ce-4f29-a2d0-fafc4422797c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/herança/classes/Endereço.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herança/classes/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herança/classes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herança/test/HerançaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java---Orienta-o-a-objeto/modificadores/classes/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java---Orienta-o-a-objeto/modificadores/classes/Carro.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vuyhA5g9LiCABqAJD3DU2vdBPJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +44,7 @@
       <recent name="modificadores.classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClienteTest (1)">
+  <component name="RunManager" selected="Application.HerançaTest">
     <configuration name="CarroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modificadores.test.CarroTest" />
       <module name="Java---Orienta-o-a-objeto" />
@@ -85,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HerançaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herança.test.HerançaTest" />
+      <module name="Java---Orienta-o-a-objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="herança.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -98,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HerançaTest" />
         <item itemvalue="Application.ClienteTest (1)" />
         <item itemvalue="Application.CarroTest" />
         <item itemvalue="Application.ClienteTest" />
@@ -114,7 +127,10 @@
       <updated>1627426392350</updated>
       <workItem from="1627426422494" duration="2004000" />
       <workItem from="1628010229048" duration="7062000" />
-      <workItem from="1628723345430" duration="3461000" />
+      <workItem from="1628723345430" duration="3758000" />
+      <workItem from="1628769696020" duration="65000" />
+      <workItem from="1628865481926" duration="215000" />
+      <workItem from="1629068264068" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="Aula41_blocosInicialização">
       <created>1628010634521</created>
@@ -123,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628010634521</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aula44_associação">
+      <created>1628729617673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628729617673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
