@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ab5bf9f6-f5ce-4f29-a2d0-fafc4422797c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/herança/classes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herança/classes/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/herança/classes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herança/classes/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/herança/test/HerançaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herança/test/HerançaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,17 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HerançaTest" />
@@ -129,7 +115,8 @@
       <workItem from="1628723345430" duration="3758000" />
       <workItem from="1628769696020" duration="65000" />
       <workItem from="1628865481926" duration="215000" />
-      <workItem from="1629068264068" duration="4747000" />
+      <workItem from="1629068264068" duration="5108000" />
+      <workItem from="1629158394783" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="Aula41_blocosInicialização">
       <created>1628010634521</created>
@@ -152,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629072373200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="AUla54_herançaEinicialização">
+      <created>1629074022494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629074022494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +157,8 @@
     <MESSAGE value="Aula42_modificadores" />
     <MESSAGE value="Aula44_associação" />
     <MESSAGE value="AUla53_herançaEconstrutor" />
-    <option name="LAST_COMMIT_MESSAGE" value="AUla53_herançaEconstrutor" />
+    <MESSAGE value="AUla54_herançaEinicialização" />
+    <option name="LAST_COMMIT_MESSAGE" value="AUla54_herançaEinicialização" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
